@@ -65,7 +65,7 @@ httpd.serve_forever()
 ![web ex1 serever](https://user-images.githubusercontent.com/122199934/228425561-a1b3dc55-2d0c-42fd-87dd-06e1b6e299ab.png)
 
 ### Client output:
-![client output](https://user-images.githubusercontent.com/122199934/228425311-5ff5a4a7-b76c-43d6-82be-dac31a7a7a2a.png)
+![client output](https://user-images.githubusercontent.com/122199934/228540720-80e2d8ae-7fc6-4799-9f37-6903c7734186.png)
 
 
 ## RESULT:
